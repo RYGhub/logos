@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="800"
+   viewBox="0 0 211.66666 211.66667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Markov.svg"
+   inkscape:export-filename="D:\Immagini\Royal Games\Markov.png"
+   inkscape:export-xdpi="120"
+   inkscape:export-ydpi="120">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient821"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#0d1939;stop-opacity:1;"
+         offset="0"
+         id="stop819" />
+    </linearGradient>
+    <linearGradient
+       id="Azzurro"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#a0c0ff;stop-opacity:1;"
+         offset="0"
+         id="stop4522" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Azzurro"
+       id="linearGradient4766"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(17.104916,0,0,17.104916,-1580.3695,-2773.1709)"
+       x1="95.725423"
+       y1="173.01568"
+       x2="101.75606"
+       y2="173.01568" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient821"
+       id="linearGradient823"
+       x1="19.276785"
+       y1="107.8229"
+       x2="62.366072"
+       y2="107.8229"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.9122805,0,0,5.8947369,-94.692975,-444.42103)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#0d193b"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="388.84075"
+     inkscape:cy="528.07219"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-85.333317)">
+    <rect
+       style="fill:url(#linearGradient823);fill-opacity:1;stroke-width:1.42375827"
+       id="rect817"
+       width="211.66667"
+       height="211.66667"
+       x="0"
+       y="85.333328" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot823"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#Azzurro);fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-37.081827,62.479268)"><flowRegion
+         id="flowRegion825"
+         style="text-align:center;text-anchor:middle;fill:url(#Azzurro)"><rect
+           id="rect827"
+           width="802.16772"
+           height="805.71423"
+           x="137.14285"
+           y="111.42857"
+           style="text-align:center;text-anchor:middle;fill:url(#Azzurro)" /></flowRegion><flowPara
+         id="flowPara835"
+         style="font-size:74.66666412px">Il bot dice:</flowPara><flowPara
+         id="flowPara837">RISOLTO IL MISTERO DI GOOGLE CHROME: MANGIA MASSIMO IL 33% DELLA RAM DI UN TAVOLO</flowPara><flowPara
+         id="flowPara851">Cosa fa un'ape su una domanda rtetorica</flowPara><flowPara
+         id="flowPara839">non so come faccia Bowser ad avere 4.63 stelle su 30</flowPara><flowPara
+         id="flowPara865">Ping potenziali interessati @Proto @OSFallenAngel</flowPara><flowPara
+         id="flowPara871">max = merda su dota</flowPara><flowPara
+         id="flowPara873">che cidenti sta facendo impazzire steffo, suggerire clinica per salute mentale)</flowPara></flowRoot>  </g>
+</svg>
