@@ -1,0 +1,20 @@
+#message {
+    margin-bottom: 0;
+}
+
+.auth0-lock-alternative {
+    display: none;
+}
+
+.auth0-lock-submit {
+    background-color: #e78a1c !important;
+    color: #333c4d !important;
+}
+
+.auth0-lock-submit svg g {
+    fill: #333c4d !important;
+}
+
+body {
+    background-color: #3c247f;
+}
