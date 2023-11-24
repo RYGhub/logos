@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg" version="1.1" viewBox="0 0 616 276">
+  <defs id="defs">
+    <linearGradient
+       id="bg-gradient"
+       x1="-0.0080908203125"
+       y1="1.0589013671875"
+       x2="1.0258056640625"
+       y2="-0.078388671875">
+      <stop
+         offset="0"
+         stop-color="#e76608"
+         id="stop4" />
+      <stop
+         offset="0.11"
+         stop-color="#ca591b"
+         id="stop6" />
+      <stop
+         offset="0.32"
+         stop-color="#9b453c"
+         id="stop8" />
+      <stop
+         offset="0.52"
+         stop-color="#74375b"
+         id="stop10" />
+      <stop
+         offset="0.71"
+         stop-color="#542e6f"
+         id="stop12" />
+      <stop
+         offset="0.87"
+         stop-color="#42277a"
+         id="stop14" />
+      <stop
+         offset="1"
+         stop-color="#3c247f"
+         id="stop16" />
+    </linearGradient>
+  </defs>
+  <rect
+     width="616"
+     height="276"
+     id="bg"
+     style="fill:url(#bg-gradient)" />
+</svg>
